@@ -1,0 +1,431 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-11-19 23:01:13",
+  "expression_db": [
+    {
+      "id": "emo_warm_welcome_01",
+      "db": "expression",
+      "label_zh": "亲切迎客·温和笑眼开场",
+      "emotion": "warm_welcome",
+      "gesture_type": "seated_hand_open",
+      "scene": "closeup",
+      "aspect": "9:16",
+      "resolution": "720x1280",
+      "fps": 25,
+      "duration_sec": 6.0,
+      "source_type": "ai_generated",
+      "tags": [
+        "迎客",
+        "微笑",
+        "开场"
+      ],
+      "clip_path": "expression_db/clips/emo_warm_welcome_01.mp4",
+      "thumb_path": "expression_db/thumbs/emo_warm_welcome_01_strip.jpg",
+      "added_at": "2026-11-19 22:30:49"
+    },
+    {
+      "id": "emo_sincere_cta_01",
+      "db": "expression",
+      "label_zh": "真诚邀约·柔光直视互动",
+      "emotion": "sincere_cta",
+      "gesture_type": "seated_lean_in",
+      "scene": "closeup",
+      "aspect": "9:16",
+      "resolution": "720x1280",
+      "fps": 25,
+      "duration_sec": 6.0,
+      "source_type": "ai_generated",
+      "tags": [
+        "邀约",
+        "温柔",
+        "收尾"
+      ],
+      "clip_path": "expression_db/clips/emo_sincere_cta_01.mp4",
+      "thumb_path": "expression_db/thumbs/emo_sincere_cta_01_strip.jpg",
+      "added_at": "2026-11-19 22:30:49"
+    },
+    {
+      "id": "botanical_e01_warm_welcome",
+      "db": "expression",
+      "label_zh": "花房女主·亲切迎客",
+      "emotion": "warm_welcome",
+      "gesture_type": "seated_hand_open",
+      "scene": "closeup",
+      "aspect": "16:9",
+      "resolution": "1280x720",
+      "fps": 25,
+      "duration_sec": 4.44,
+      "source_type": "ai_generated",
+      "tags": [
+        "迎客",
+        "微笑",
+        "点头"
+      ],
+      "clip_path": "expression_db/clips/botanical_e01_warm_welcome.mp4",
+      "thumb_path": "expression_db/thumbs/botanical_e01_warm_welcome_strip.jpg",
+      "added_at": "2026-11-19 23:01:03"
+    },
+    {
+      "id": "botanical_e02_curious_hook",
+      "db": "expression",
+      "label_zh": "花房女主·悬念反问",
+      "emotion": "curious_hook",
+      "gesture_type": "seated_lean_in",
+      "scene": "closeup",
+      "aspect": "16:9",
+      "resolution": "1280x720",
+      "fps": 25,
+      "duration_sec": 4.44,
+      "source_type": "ai_generated",
+      "tags": [
+        "挑眉",
+        "歪头",
+        "悬念"
+      ],
+      "clip_path": "expression_db/clips/botanical_e02_curious_hook.mp4",
+      "thumb_path": "expression_db/thumbs/botanical_e02_curious_hook_strip.jpg",
+      "added_at": "2026-11-19 23:01:03"
+    },
+    {
+      "id": "botanical_e03_emphatic_explain",
+      "db": "expression",
+      "label_zh": "花房女主·干货强调",
+      "emotion": "emphatic_explain",
+      "gesture_type": "seated_hand_open",
+      "scene": "closeup",
+      "aspect": "16:9",
+      "resolution": "1280x720",
+      "fps": 25,
+      "duration_sec": 4.44,
+      "source_type": "ai_generated",
+      "tags": [
+        "强调",
+        "点头",
+        "专注"
+      ],
+      "clip_path": "expression_db/clips/botanical_e03_emphatic_explain.mp4",
+      "thumb_path": "expression_db/thumbs/botanical_e03_emphatic_explain_strip.jpg",
+      "added_at": "2026-11-19 23:01:04"
+    },
+    {
+      "id": "botanical_e04_admiring_soft",
+      "db": "expression",
+      "label_zh": "花房女主·欣赏陶醉",
+      "emotion": "admiring_soft",
+      "gesture_type": "seated_hold_item",
+      "scene": "closeup",
+      "aspect": "16:9",
+      "resolution": "1280x720",
+      "fps": 25,
+      "duration_sec": 4.44,
+      "source_type": "ai_generated",
+      "tags": [
+        "陶醉",
+        "温柔",
+        "品鉴"
+      ],
+      "clip_path": "expression_db/clips/botanical_e04_admiring_soft.mp4",
+      "thumb_path": "expression_db/thumbs/botanical_e04_admiring_soft_strip.jpg",
+      "added_at": "2026-11-19 23:01:05"
+    },
+    {
+      "id": "botanical_e05_surprised_contrast",
+      "db": "expression",
+      "label_zh": "花房女主·反差惊叹",
+      "emotion": "surprised_contrast",
+      "gesture_type": "seated_hand_open",
+      "scene": "closeup",
+      "aspect": "16:9",
+      "resolution": "1280x720",
+      "fps": 25,
+      "duration_sec": 4.44,
+      "source_type": "ai_generated",
+      "tags": [
+        "惊叹",
+        "反差",
+        "睁眼"
+      ],
+      "clip_path": "expression_db/clips/botanical_e05_surprised_contrast.mp4",
+      "thumb_path": "expression_db/thumbs/botanical_e05_surprised_contrast_strip.jpg",
+      "added_at": "2026-11-19 23:01:05"
+    },
+    {
+      "id": "botanical_e06_sincere_cta",
+      "db": "expression",
+      "label_zh": "花房女主·真诚邀约",
+      "emotion": "sincere_cta",
+      "gesture_type": "seated_lean_in",
+      "scene": "closeup",
+      "aspect": "16:9",
+      "resolution": "1280x720",
+      "fps": 25,
+      "duration_sec": 4.44,
+      "source_type": "ai_generated",
+      "tags": [
+        "真诚",
+        "邀约",
+        "收尾"
+      ],
+      "clip_path": "expression_db/clips/botanical_e06_sincere_cta.mp4",
+      "thumb_path": "expression_db/thumbs/botanical_e06_sincere_cta_strip.jpg",
+      "added_at": "2026-11-19 23:01:06"
+    }
+  ],
+  "gesture_db": [
+    {
+      "id": "gest_walk_shelf_01",
+      "db": "gesture",
+      "label_zh": "走动·沿展墙漫步掌心指引",
+      "emotion": "warm_welcome",
+      "gesture_type": "walking_guide_shelf",
+      "scene": "walking",
+      "aspect": "9:16",
+      "resolution": "720x1280",
+      "fps": 25,
+      "duration_sec": 5.16,
+      "source_type": "ai_generated",
+      "tags": [
+        "走动",
+        "展墙",
+        "指引",
+        "逛店"
+      ],
+      "clip_path": "gesture_db/clips/gest_walk_shelf_01.mp4",
+      "thumb_path": "gesture_db/thumbs/gest_walk_shelf_01_strip.jpg",
+      "added_at": "2026-11-19 22:30:46"
+    },
+    {
+      "id": "gest_stand_inspect_01",
+      "db": "gesture",
+      "label_zh": "站播·展桌捧杯迎光鉴赏",
+      "emotion": "admiring_soft",
+      "gesture_type": "standing_inspect_cup",
+      "scene": "standing",
+      "aspect": "9:16",
+      "resolution": "720x1280",
+      "fps": 25,
+      "duration_sec": 5.16,
+      "source_type": "ai_generated",
+      "tags": [
+        "站播",
+        "捧杯",
+        "品鉴",
+        "展桌"
+      ],
+      "clip_path": "gesture_db/clips/gest_stand_inspect_01.mp4",
+      "thumb_path": "gesture_db/thumbs/gest_stand_inspect_01_strip.jpg",
+      "added_at": "2026-11-19 22:30:47"
+    },
+    {
+      "id": "gest_walk_corridor_01",
+      "db": "gesture",
+      "label_zh": "走动·长廊漫步步入展室",
+      "emotion": "sincere_cta",
+      "gesture_type": "walking_corridor_invite",
+      "scene": "walking",
+      "aspect": "9:16",
+      "resolution": "720x1280",
+      "fps": 25,
+      "duration_sec": 5.16,
+      "source_type": "ai_generated",
+      "tags": [
+        "走动",
+        "长廊",
+        "邀约",
+        "背影"
+      ],
+      "clip_path": "gesture_db/clips/gest_walk_corridor_01.mp4",
+      "thumb_path": "gesture_db/thumbs/gest_walk_corridor_01_strip.jpg",
+      "added_at": "2026-11-19 22:30:48"
+    },
+    {
+      "id": "botanical_g01_seated_hand_open",
+      "db": "gesture",
+      "label_zh": "花房女主·坐播 · 自然摊手讲解",
+      "emotion": "emphatic_explain",
+      "gesture_type": "seated_hand_open",
+      "scene": "seated",
+      "aspect": "16:9",
+      "resolution": "1280x720",
+      "fps": 25,
+      "duration_sec": 4.44,
+      "source_type": "ai_generated",
+      "tags": [
+        "坐播",
+        "摊手",
+        "讲解"
+      ],
+      "clip_path": "gesture_db/clips/botanical_g01_seated_hand_open.mp4",
+      "thumb_path": "gesture_db/thumbs/botanical_g01_seated_hand_open_strip.jpg",
+      "added_at": "2026-11-19 23:01:07"
+    },
+    {
+      "id": "botanical_g02_seated_count_123",
+      "db": "gesture",
+      "label_zh": "花房女主·坐播 · 竖指列举 1-2-3",
+      "emotion": "emphatic_explain",
+      "gesture_type": "seated_count_123",
+      "scene": "seated",
+      "aspect": "16:9",
+      "resolution": "1280x720",
+      "fps": 25,
+      "duration_sec": 4.44,
+      "source_type": "ai_generated",
+      "tags": [
+        "坐播",
+        "竖指",
+        "列举"
+      ],
+      "clip_path": "gesture_db/clips/botanical_g02_seated_count_123.mp4",
+      "thumb_path": "gesture_db/thumbs/botanical_g02_seated_count_123_strip.jpg",
+      "added_at": "2026-11-19 23:01:08"
+    },
+    {
+      "id": "botanical_g03_seated_lean_in",
+      "db": "gesture",
+      "label_zh": "花房女主·坐播 · 微前倾拉近距离",
+      "emotion": "curious_hook",
+      "gesture_type": "seated_lean_in",
+      "scene": "seated",
+      "aspect": "16:9",
+      "resolution": "1280x720",
+      "fps": 25,
+      "duration_sec": 4.44,
+      "source_type": "ai_generated",
+      "tags": [
+        "坐播",
+        "前倾",
+        "亲密"
+      ],
+      "clip_path": "gesture_db/clips/botanical_g03_seated_lean_in.mp4",
+      "thumb_path": "gesture_db/thumbs/botanical_g03_seated_lean_in_strip.jpg",
+      "added_at": "2026-11-19 23:01:08"
+    },
+    {
+      "id": "botanical_g04_seated_hold_item",
+      "db": "gesture",
+      "label_zh": "花房女主·坐播 · 双手轻捧展品",
+      "emotion": "admiring_soft",
+      "gesture_type": "seated_hold_item",
+      "scene": "seated",
+      "aspect": "16:9",
+      "resolution": "1280x720",
+      "fps": 25,
+      "duration_sec": 4.44,
+      "source_type": "ai_generated",
+      "tags": [
+        "坐播",
+        "捧杯",
+        "展品"
+      ],
+      "clip_path": "gesture_db/clips/botanical_g04_seated_hold_item.mp4",
+      "thumb_path": "gesture_db/thumbs/botanical_g04_seated_hold_item_strip.jpg",
+      "added_at": "2026-11-19 23:01:09"
+    },
+    {
+      "id": "botanical_g05_seated_pour_chat",
+      "db": "gesture",
+      "label_zh": "花房女主·坐播 · 边泡茶边微笑交流",
+      "emotion": "warm_welcome",
+      "gesture_type": "seated_pour_chat",
+      "scene": "seated",
+      "aspect": "16:9",
+      "resolution": "1280x720",
+      "fps": 25,
+      "duration_sec": 4.44,
+      "source_type": "ai_generated",
+      "tags": [
+        "坐播",
+        "泡茶",
+        "场景"
+      ],
+      "clip_path": "gesture_db/clips/botanical_g05_seated_pour_chat.mp4",
+      "thumb_path": "gesture_db/thumbs/botanical_g05_seated_pour_chat_strip.jpg",
+      "added_at": "2026-11-19 23:01:10"
+    },
+    {
+      "id": "botanical_g06_standing_point_side",
+      "db": "gesture",
+      "label_zh": "花房女主·站播 · 侧身掌心指引",
+      "emotion": "emphatic_explain",
+      "gesture_type": "standing_point_side",
+      "scene": "standing",
+      "aspect": "16:9",
+      "resolution": "1280x720",
+      "fps": 25,
+      "duration_sec": 4.44,
+      "source_type": "ai_generated",
+      "tags": [
+        "站播",
+        "指引",
+        "展厅"
+      ],
+      "clip_path": "gesture_db/clips/botanical_g06_standing_point_side.mp4",
+      "thumb_path": "gesture_db/thumbs/botanical_g06_standing_point_side_strip.jpg",
+      "added_at": "2026-11-19 23:01:10"
+    },
+    {
+      "id": "botanical_g07_standing_inspect_cup",
+      "db": "gesture",
+      "label_zh": "花房女主·站播 · 迎光端详品鉴",
+      "emotion": "admiring_soft",
+      "gesture_type": "standing_inspect_cup",
+      "scene": "standing",
+      "aspect": "16:9",
+      "resolution": "1280x720",
+      "fps": 25,
+      "duration_sec": 4.44,
+      "source_type": "ai_generated",
+      "tags": [
+        "站播",
+        "品鉴",
+        "迎光"
+      ],
+      "clip_path": "gesture_db/clips/botanical_g07_standing_inspect_cup.mp4",
+      "thumb_path": "gesture_db/thumbs/botanical_g07_standing_inspect_cup_strip.jpg",
+      "added_at": "2026-11-19 23:01:11"
+    },
+    {
+      "id": "botanical_g08_walking_guide_shelf",
+      "db": "gesture",
+      "label_zh": "花房女主·走动 · 沿廊漫步指引",
+      "emotion": "warm_welcome",
+      "gesture_type": "walking_guide_shelf",
+      "scene": "walking",
+      "aspect": "16:9",
+      "resolution": "1280x720",
+      "fps": 25,
+      "duration_sec": 4.44,
+      "source_type": "ai_generated",
+      "tags": [
+        "走动",
+        "漫步",
+        "指引"
+      ],
+      "clip_path": "gesture_db/clips/botanical_g08_walking_guide_shelf.mp4",
+      "thumb_path": "gesture_db/thumbs/botanical_g08_walking_guide_shelf_strip.jpg",
+      "added_at": "2026-11-19 23:01:12"
+    },
+    {
+      "id": "botanical_g09_walking_corridor_invite",
+      "db": "gesture",
+      "label_zh": "花房女主·走动 · 漫步回头微笑邀约",
+      "emotion": "sincere_cta",
+      "gesture_type": "walking_corridor_invite",
+      "scene": "walking",
+      "aspect": "16:9",
+      "resolution": "1280x720",
+      "fps": 25,
+      "duration_sec": 4.44,
+      "source_type": "ai_generated",
+      "tags": [
+        "走动",
+        "回头",
+        "邀约"
+      ],
+      "clip_path": "gesture_db/clips/botanical_g09_walking_corridor_invite.mp4",
+      "thumb_path": "gesture_db/thumbs/botanical_g09_walking_corridor_invite_strip.jpg",
+      "added_at": "2026-11-19 23:01:13"
+    }
+  ]
+}

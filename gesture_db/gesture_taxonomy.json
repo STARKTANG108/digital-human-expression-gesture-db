@@ -1,0 +1,60 @@
+{
+  "version": "1.0",
+  "scenes": ["seated", "standing", "walking"],
+  "gestures": {
+    "seated_hand_open": {
+      "label_zh": "坐播·自然摊手讲解",
+      "scene": "seated",
+      "emotion_fit": ["warm_welcome", "emphatic_explain"],
+      "description": "双手自然微抬摊开配合语调起伏，适合开场破题与核心干货解释"
+    },
+    "seated_count_123": {
+      "label_zh": "坐播·竖指列举要点",
+      "scene": "seated",
+      "emotion_fit": ["emphatic_explain", "curious_hook"],
+      "description": "单手依次轻点要点（一、二、三），显著增强科普/卖点说服力"
+    },
+    "seated_lean_in": {
+      "label_zh": "坐播·微前倾拉近距离",
+      "scene": "seated",
+      "emotion_fit": ["curious_hook", "sincere_cta"],
+      "description": "上身微微前倾配单侧挑眉，营造「悄悄告诉你干货」的亲密感"
+    },
+    "seated_hold_item": {
+      "label_zh": "坐播·轻捧器物展示",
+      "scene": "seated",
+      "emotion_fit": ["admiring_soft", "emphatic_explain"],
+      "description": "双手托起茶壶/茶杯/面料样板微转向镜头展示细节"
+    },
+    "seated_pour_chat": {
+      "label_zh": "坐播·边泡茶/操作边聊",
+      "scene": "seated",
+      "emotion_fit": ["admiring_soft", "warm_welcome"],
+      "description": "低头轻倒茶汤或抚摸实木桌面，随后抬头微笑看镜头"
+    },
+    "standing_point_side": {
+      "label_zh": "站播·侧身掌心指引展品",
+      "scene": "standing",
+      "emotion_fit": ["emphatic_explain", "warm_welcome"],
+      "description": "展厅/PPT/展墙前站立，手掌优雅打开指向身侧产品"
+    },
+    "standing_inspect_cup": {
+      "label_zh": "站播·展桌捧杯迎光鉴赏",
+      "scene": "standing",
+      "emotion_fit": ["admiring_soft"],
+      "description": "立于展桌旁轻捧青瓷/器物迎光微转欣赏，展现专业品鉴感"
+    },
+    "walking_guide_shelf": {
+      "label_zh": "走动·沿展墙漫步指引",
+      "scene": "walking",
+      "emotion_fit": ["warm_welcome", "emphatic_explain"],
+      "description": "沿展柜/家具区缓步前行，单手轻抬指向展品并看镜头微笑"
+    },
+    "walking_corridor_invite": {
+      "label_zh": "走动·漫步回头微笑邀约",
+      "scene": "walking",
+      "emotion_fit": ["sincere_cta", "warm_welcome"],
+      "description": "向展厅深处或茶室缓步走去，自然回头微笑引导观众跟随"
+    }
+  }
+}

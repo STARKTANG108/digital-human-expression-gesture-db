@@ -1,0 +1,47 @@
+{
+  "version": "1.0",
+  "emotions": {
+    "warm_welcome": {
+      "label_zh": "亲切迎客",
+      "use_cases": ["开场问好", "温柔收尾", "日常分享"],
+      "facial_cues": "crinkled smiling eyes, gentle relaxed warm smile, subtle welcoming head nod, soft eye contact",
+      "wan_prompt": "Warm approachable presenter looking directly at camera with softly crinkled smiling eyes, gentle natural head nods, expressive eyebrows lifting warmly on key words, relaxed natural shoulder breathing, photorealistic studio cinema.",
+      "voxcpm_cfg": 1.75
+    },
+    "curious_hook": {
+      "label_zh": "悬念反问",
+      "use_cases": ["痛点破题", "反常识提问", "历史悬念"],
+      "facial_cues": "slight single-eyebrow raise, subtle inquisitive head tilt, focused sparkling gaze, brief expressive pause",
+      "wan_prompt": "Engaging presenter speaking directly to camera with an inquisitive slight head tilt and subtly raised expressive eyebrows, lively focused gaze, dynamic natural facial micro-expressions emphasizing curiosity, photorealistic cinema.",
+      "voxcpm_cfg": 1.82
+    },
+    "emphatic_explain": {
+      "label_zh": "干货强调",
+      "use_cases": ["核心卖点", "工艺解析", "历史转折点"],
+      "facial_cues": "confident steady gaze, subtle rhythmic nodding on emphasis, slight forward lean, articulate brow tension",
+      "wan_prompt": "Confident authoritative presenter speaking crisply to camera with subtle rhythmic nods emphasizing key phrases, focused steady eye contact, expressive articulate eyebrows and slight engaging forward posture, photorealistic cinema.",
+      "voxcpm_cfg": 1.85
+    },
+    "admiring_soft": {
+      "label_zh": "欣赏陶醉",
+      "use_cases": ["品鉴茶具", "展示高定材质", "美学赞叹"],
+      "facial_cues": "gentle glowing eyes, soft appreciative smile, slow calm blinking, serene poised chin angle",
+      "wan_prompt": "Serene graceful presenter speaking softly with warm appreciative eyes, tender subtle smile, slow calm blinking and poised relaxed head movement radiating quiet taste and admiration, photorealistic cinema.",
+      "voxcpm_cfg": 1.72
+    },
+    "surprised_contrast": {
+      "label_zh": "反差惊叹",
+      "use_cases": ["价格反差", "剧情大反转", "颠覆认知"],
+      "facial_cues": "widened bright eyes, uplifted eyebrows, brisk animated micro-nod, lively energetic expression",
+      "wan_prompt": "Animated expressive presenter speaking energetically to camera with brightened widened eyes, lively uplifted eyebrows and dynamic micro-expressions conveying genuine surprise and contrast, photorealistic cinema.",
+      "voxcpm_cfg": 1.88
+    },
+    "sincere_cta": {
+      "label_zh": "真诚邀约",
+      "use_cases": ["预约到店", "评论区互动", "私信定制"],
+      "facial_cues": "sincere warm direct eye contact, gentle reassuring nod, soft open smile at sentence end",
+      "wan_prompt": "Sincere trustworthy presenter looking warmly into the lens with genuine reassuring micro-nods, gentle open smile and relaxed inviting eye contact, photorealistic cinema.",
+      "voxcpm_cfg": 1.76
+    }
+  }
+}
